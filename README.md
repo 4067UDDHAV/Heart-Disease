@@ -1,0 +1,1 @@
+The Heart Disease Prediction project uses machine learning to analyze patient data and predict heart disease risk. A hybrid model combining SVM, Decision Tree, and Random Forest ensures accurate and reliable predictions.
